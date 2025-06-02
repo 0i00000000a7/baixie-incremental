@@ -1,0 +1,244 @@
+{
+  "@babel/helper-string-parser@7.25.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "node_modules/@babel/helper-string-parser",
+    "licenseFile": "node_modules/@babel/helper-string-parser/LICENSE"
+  },
+  "@babel/helper-validator-identifier@7.25.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "node_modules/@babel/helper-validator-identifier",
+    "licenseFile": "node_modules/@babel/helper-validator-identifier/LICENSE"
+  },
+  "@babel/parser@7.26.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "node_modules/@babel/parser",
+    "licenseFile": "node_modules/@babel/parser/LICENSE"
+  },
+  "@babel/types@7.26.10": {
+    "licenses": "MIT",
+    "repository": "https://github.com/babel/babel",
+    "publisher": "The Babel Team",
+    "url": "https://babel.dev/team",
+    "path": "node_modules/@babel/types",
+    "licenseFile": "node_modules/@babel/types/LICENSE"
+  },
+  "@fortawesome/fontawesome-common-types@6.7.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/FortAwesome/Font-Awesome",
+    "publisher": "The Font Awesome Team",
+    "url": "https://github.com/orgs/FortAwesome/people",
+    "path": "node_modules/@fortawesome/fontawesome-common-types",
+    "licenseFile": "node_modules/@fortawesome/fontawesome-common-types/LICENSE.txt"
+  },
+  "@fortawesome/fontawesome-svg-core@6.7.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/FortAwesome/Font-Awesome",
+    "publisher": "The Font Awesome Team",
+    "url": "https://github.com/orgs/FortAwesome/people",
+    "path": "node_modules/@fortawesome/fontawesome-svg-core",
+    "licenseFile": "node_modules/@fortawesome/fontawesome-svg-core/LICENSE.txt"
+  },
+  "@fortawesome/free-solid-svg-icons@6.7.2": {
+    "licenses": "(CC-BY-4.0 AND MIT)",
+    "repository": "https://github.com/FortAwesome/Font-Awesome",
+    "publisher": "The Font Awesome Team",
+    "url": "https://github.com/orgs/FortAwesome/people",
+    "path": "node_modules/@fortawesome/free-solid-svg-icons",
+    "licenseFile": "node_modules/@fortawesome/free-solid-svg-icons/LICENSE.txt"
+  },
+  "@fortawesome/vue-fontawesome@3.0.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/FortAwesome/vue-fontawesome",
+    "path": "node_modules/@fortawesome/vue-fontawesome",
+    "licenseFile": "node_modules/@fortawesome/vue-fontawesome/LICENSE.txt"
+  },
+  "@jridgewell/sourcemap-codec@1.5.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jridgewell/sourcemap-codec",
+    "publisher": "Rich Harris",
+    "path": "node_modules/@jridgewell/sourcemap-codec",
+    "licenseFile": "node_modules/@jridgewell/sourcemap-codec/LICENSE"
+  },
+  "@vue/compiler-core@3.5.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "node_modules/@vue/compiler-core",
+    "licenseFile": "node_modules/@vue/compiler-core/LICENSE"
+  },
+  "@vue/compiler-dom@3.5.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "node_modules/@vue/compiler-dom",
+    "licenseFile": "node_modules/@vue/compiler-dom/LICENSE"
+  },
+  "@vue/compiler-sfc@3.5.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "node_modules/@vue/compiler-sfc",
+    "licenseFile": "node_modules/@vue/compiler-sfc/LICENSE"
+  },
+  "@vue/compiler-ssr@3.5.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "node_modules/@vue/compiler-ssr",
+    "licenseFile": "node_modules/@vue/compiler-ssr/LICENSE"
+  },
+  "@vue/reactivity@3.5.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "node_modules/@vue/reactivity",
+    "licenseFile": "node_modules/@vue/reactivity/LICENSE"
+  },
+  "@vue/runtime-core@3.5.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "node_modules/@vue/runtime-core",
+    "licenseFile": "node_modules/@vue/runtime-core/LICENSE"
+  },
+  "@vue/runtime-dom@3.5.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "node_modules/@vue/runtime-dom",
+    "licenseFile": "node_modules/@vue/runtime-dom/LICENSE"
+  },
+  "@vue/server-renderer@3.5.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "node_modules/@vue/server-renderer",
+    "licenseFile": "node_modules/@vue/server-renderer/LICENSE"
+  },
+  "@vue/shared@3.5.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "node_modules/@vue/shared",
+    "licenseFile": "node_modules/@vue/shared/LICENSE"
+  },
+  "apng-js@1.1.5": {
+    "licenses": "MIT",
+    "repository": "https://github.com/davidmz/apng-js",
+    "publisher": "David Mzareulyan",
+    "email": "david@hiero.ru",
+    "url": "https://github.com/davidmz",
+    "path": "node_modules/apng-js",
+    "licenseFile": "node_modules/apng-js/LICENSE.txt"
+  },
+  "baixie@0.0.0": {
+    "licenses": "UNLICENSED",
+    "private": true,
+    "path": "/data/data/com.termux/files/home/baixie-incremental",
+    "licenseFile": "LICENSE"
+  },
+  "break_eternity.js@2.1.1": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Patashu/break_eternity.js",
+    "publisher": "Patashu",
+    "path": "node_modules/break_eternity.js",
+    "licenseFile": "node_modules/break_eternity.js/LICENSE"
+  },
+  "csstype@3.1.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/frenic/csstype",
+    "publisher": "Fredrik Nicol",
+    "email": "fredrik.nicol@gmail.com",
+    "path": "node_modules/csstype",
+    "licenseFile": "node_modules/csstype/LICENSE"
+  },
+  "disable-devtool@0.3.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/theajack/disable-devtool",
+    "publisher": "theajack",
+    "path": "node_modules/disable-devtool",
+    "licenseFile": "node_modules/disable-devtool/LICENSE"
+  },
+  "entities@4.5.0": {
+    "licenses": "BSD-2-Clause",
+    "repository": "https://github.com/fb55/entities",
+    "publisher": "Felix Boehm",
+    "email": "me@feedic.com",
+    "path": "node_modules/entities",
+    "licenseFile": "node_modules/entities/LICENSE"
+  },
+  "estree-walker@2.0.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Rich-Harris/estree-walker",
+    "publisher": "Rich Harris",
+    "path": "node_modules/estree-walker",
+    "licenseFile": "node_modules/estree-walker/LICENSE"
+  },
+  "magic-string@0.30.17": {
+    "licenses": "MIT",
+    "repository": "https://github.com/rich-harris/magic-string",
+    "publisher": "Rich Harris",
+    "path": "node_modules/magic-string",
+    "licenseFile": "node_modules/magic-string/LICENSE"
+  },
+  "nanoid@3.3.9": {
+    "licenses": "MIT",
+    "repository": "https://github.com/ai/nanoid",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "node_modules/nanoid",
+    "licenseFile": "node_modules/nanoid/LICENSE"
+  },
+  "pako@2.1.0": {
+    "licenses": "(MIT AND Zlib)",
+    "repository": "https://github.com/nodeca/pako",
+    "path": "node_modules/pako",
+    "licenseFile": "node_modules/pako/LICENSE"
+  },
+  "picocolors@1.1.1": {
+    "licenses": "ISC",
+    "repository": "https://github.com/alexeyraspopov/picocolors",
+    "publisher": "Alexey Raspopov",
+    "path": "node_modules/picocolors",
+    "licenseFile": "node_modules/picocolors/LICENSE"
+  },
+  "postcss@8.5.3": {
+    "licenses": "MIT",
+    "repository": "https://github.com/postcss/postcss",
+    "publisher": "Andrey Sitnik",
+    "email": "andrey@sitnik.ru",
+    "path": "node_modules/postcss",
+    "licenseFile": "node_modules/postcss/LICENSE"
+  },
+  "source-map-js@1.2.1": {
+    "licenses": "BSD-3-Clause",
+    "repository": "https://github.com/7rulnik/source-map-js",
+    "publisher": "Valentin 7rulnik Semirulnik",
+    "email": "v7rulnik@gmail.com",
+    "path": "node_modules/source-map-js",
+    "licenseFile": "node_modules/source-map-js/LICENSE"
+  },
+  "typescript@5.4.5": {
+    "licenses": "Apache-2.0",
+    "repository": "https://github.com/Microsoft/TypeScript",
+    "publisher": "Microsoft Corp.",
+    "path": "node_modules/typescript",
+    "licenseFile": "node_modules/typescript/LICENSE.txt"
+  },
+  "vue@3.5.13": {
+    "licenses": "MIT",
+    "repository": "https://github.com/vuejs/core",
+    "publisher": "Evan You",
+    "path": "node_modules/vue",
+    "licenseFile": "node_modules/vue/LICENSE"
+  }
+}
